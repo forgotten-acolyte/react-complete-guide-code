@@ -3,7 +3,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/code/react-vs-vanilla-js-example/react/node_modules
 /.pnp
 .pnp.js
 
